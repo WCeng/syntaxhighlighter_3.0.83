@@ -1,3 +1,2 @@
-<script>
-  alert("testJS")
-</script>
+
+ alert("testJS")
