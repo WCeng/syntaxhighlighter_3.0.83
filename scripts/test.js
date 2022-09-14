@@ -1,0 +1,3 @@
+<scripte>
+  alert("testJS")
+</script>
