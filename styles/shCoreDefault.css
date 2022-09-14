@@ -80,6 +80,7 @@
 }
 .syntaxhighlighter table td.code {
   width: 100% !important;
+  vertical-align: top !important;
 }
 .syntaxhighlighter table td.code .container {
   position: relative !important;
@@ -119,6 +120,7 @@
   position: static !important;
   width: auto !important;
   height: auto !important;
+  display: none !important;
 }
 .syntaxhighlighter.collapsed .toolbar span {
   display: inline !important;
